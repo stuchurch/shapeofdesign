@@ -1,5 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import io
 from radar_chart import create_radar_chart # Import the function from the other file
 
