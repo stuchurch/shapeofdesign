@@ -2,3 +2,4 @@ streamlit
 matplotlib
 io
 numpy
+radar_chart
